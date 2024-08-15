@@ -23,12 +23,16 @@ Design pattern used: Page object model (POM) where classes are represented as pa
 
 Steps to execute the test: 
 
- Run the below command to execute the test 
-            npx cypress open
+ Run the below command to execute the test
+
+            npx cypress open 
+
  A Cypress window opens to select the preferred browser to execute the test on. Select the browser and execute.
+
 Click on the computer.feature.
 
 
 Run the below command to execute the tests without opening the browser.
-npx cypress run
+
+            npx cypress run
 
