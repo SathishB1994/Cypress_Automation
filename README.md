@@ -2,18 +2,23 @@
 
 Scenarios considered: 
 
+US-01 : 
+
 * Adding a new computer by entering all the fields such as computer name, Introduced date, Discontinued date and company name.
 
 * Verify the Error on adding a new computer by giving an invalid date format (‘MM-dd-yyyy’).
+
+US-02 : 
 	
 * Verify searching the computer by entering the full name “Atlas Computer”.
    
 * Verify searching the computer by entering two letters “At”.
 
+US-03 : 
+
 * Verify updating the computer “Atlas Computer”.
 
 * Verify deleting the computer “Atlas Computer”.
-
 
 
 Automation tool used: Cypress
