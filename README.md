@@ -1,17 +1,18 @@
 "# Cypress_Automation" 
+
 Scenarios considered: 
 
-Adding a new computer by entering all the fields such as computer name, Introduced date, Discontinued date and company name.
+* Adding a new computer by entering all the fields such as computer name, Introduced date, Discontinued date and company name.
 
-Verify the Error on adding a new computer by giving an invalid date format (‘MM-dd-yyyy’).
+* Verify the Error on adding a new computer by giving an invalid date format (‘MM-dd-yyyy’).
 	
-Verify searching the computer by entering the full name “Atlas Computer”.
+* Verify searching the computer by entering the full name “Atlas Computer”.
    
-Verify searching the computer by entering two letters “At”.
+* Verify searching the computer by entering two letters “At”.
 
-Verify updating the computer “Atlas Computer”.
+* Verify updating the computer “Atlas Computer”.
 
-Verify deleting the computer “Atlas Computer”.
+* Verify deleting the computer “Atlas Computer”.
 
 
 
